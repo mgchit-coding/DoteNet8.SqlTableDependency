@@ -3,7 +3,12 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.10.34707.107
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DoteNet8.SqlTableDependency", "DoteNet8.SqlTableDependency\DoteNet8.SqlTableDependency.csproj", "{2E4E43D4-118E-4BB4-9454-93931F61C38A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DoteNet8.SqlTableDependency", "DoteNet8.SqlTableDependency\DoteNet8.SqlTableDependency.csproj", "{2E4E43D4-118E-4BB4-9454-93931F61C38A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Document", "Document", "{18A19486-44D5-44DF-B3E7-05226E5DFA48}"
+	ProjectSection(SolutionItems) = preProject
+		DoteNet8.SqlTableDependency\readme.md = DoteNet8.SqlTableDependency\readme.md
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
