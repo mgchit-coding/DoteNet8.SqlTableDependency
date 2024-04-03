@@ -7,7 +7,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DoteNet8.SqlTableDependency
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Document", "Document", "{18A19486-44D5-44DF-B3E7-05226E5DFA48}"
 	ProjectSection(SolutionItems) = preProject
-		DoteNet8.SqlTableDependency\readme.md = DoteNet8.SqlTableDependency\readme.md
+		README.md = README.md
 	EndProjectSection
 EndProject
 Global
